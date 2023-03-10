@@ -1,0 +1,8 @@
+{
+    "author": "thetestgame",
+    "name": "com.thetestgame.unity-toolbox",
+    "displayName": "Unity Toolbox",
+    "version": "1.0.0",
+    "description": "A collection of scripts and utilities for working with Unity3D",
+    "homepage": "https://github.com/thetestgame/Unity-Toolbox"
+}
